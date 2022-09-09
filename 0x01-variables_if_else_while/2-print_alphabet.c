@@ -6,8 +6,11 @@
  */
 int main(void)
 {
-	char ch = 'abcdefghijklmnopqrstuvwxyz';
-	
-	putchar(ch);
+	int x;
+
+	for (x = 'A'; x <= 'Z'; x++)
+	{
+		putchar(tolower(x));
+	}
 	return 0;
 }
