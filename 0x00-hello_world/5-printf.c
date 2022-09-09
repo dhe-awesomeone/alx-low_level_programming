@@ -3,7 +3,7 @@
  * Main - printing
  *
  * Description: printing a string using the printf function
- * 
+ *
  * Return: Always 0 (successful)
  */
 int main(void)
