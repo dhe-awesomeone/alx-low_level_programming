@@ -9,13 +9,10 @@
 int main(void)
 {
 	int I;
-
 	int n;
 	
 	srand(time(0));
-
 	n = rand() - RAND_MAX / 2;
-
 	I = n % 10;
 
 	if (I > 5)
@@ -24,7 +21,7 @@ int main(void)
 	}
 	else if (I == 0)
 	{
-		printf("Last digit of %d is %d and is zero\n", n, I);
+		printf("Last digit of %d is %d and is 0\n", n, I);
 	}
 	else 
 	{
