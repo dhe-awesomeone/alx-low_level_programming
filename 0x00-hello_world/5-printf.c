@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
- * Main - printing 
+ * Main - printing
  *
  * Description: printing a string using the printf function
- *
- * Return: Always 0 (successful)
+ * 
+ * Return: Always 0 (successful
  */
 int main(void)
 {
