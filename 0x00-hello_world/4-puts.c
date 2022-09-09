@@ -1,6 +1,5 @@
 #include <stdio.h>
 /**
- * 
  * main - Printing
  *
  * DEscription: c program to print string using puts function 
