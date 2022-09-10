@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - print single digit of base 10
+ * main - print digit between 0 and 9
  *
  * Description: Use only putchar statement and avoid any char vairable
  *
@@ -10,7 +10,7 @@ int main(void)
 {
 	int x;
 
-	for (x =0; x <= 9; x++)
+	for (x = 0; x <= 9; x++)
 	{
 		putchar(x);
 	}
