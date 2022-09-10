@@ -4,7 +4,7 @@
  *
  * Description: print letters ommiting q and e
  *
- * Returns: Always 0 (success)
+ * Return: Always 0 (success)
  */
 int main(void)
 {
