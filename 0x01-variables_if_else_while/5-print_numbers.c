@@ -11,8 +11,8 @@ int main(void)
 	x = 0;
 	while (x <= 9)
 	{
-		putchar(x);
-		x++;
+		printf(x);
+		++x;
 	}
 	putchar('\n');
 	return (0);
