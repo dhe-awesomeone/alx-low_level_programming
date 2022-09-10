@@ -2,7 +2,8 @@
 /**
  * main - printing alphabets
  *
- * Description: program to print alphabets in lower case first then upper case followed by a new line.
+ * Description: program to print alphabets in lower case first
+ *  then upper case followed by a new line.
  *
  * Return: Always 0 (success)
  */
