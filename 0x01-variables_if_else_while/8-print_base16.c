@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - hexadecimal 
- *
+ * main - hexadecima
+ * 
  * Return: Always 0 (success)
  */
 int main(void)
