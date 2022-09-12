@@ -12,10 +12,10 @@ int main(void)
 	{
 		for (n = 9; n <= 57; n++)
 		{
-			if (m > n)
+			if (n > m)
 			{
-				putchar('m');
-				putchar('n');
+				putchar(m);
+				putchar(n);
 				if (m != 56 || n != 57)
 				{
 					putchar(',');
