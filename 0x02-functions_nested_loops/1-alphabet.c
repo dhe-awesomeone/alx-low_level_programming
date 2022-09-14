@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - program to print letters using putchar and funciotns
+ * print_alphabet - program to print letters using putchar and funciotns
  *
  * Return: Always 0 (success)
  */
