@@ -4,7 +4,7 @@
  *
  * @c: a variablee used in this program
  *
- * Return 1 if lowercase and 0 if not
+ * Return: 1 if lowercase and 0 if not
  */
 int _islower(int c)
 {
