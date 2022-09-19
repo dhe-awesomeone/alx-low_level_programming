@@ -1,16 +1,12 @@
 #include "main.h"
-
 #include <stdio.h>
-
 /**
+ * _strlen - print size of string parameter
  *
- *  * _strlen - print size of string parameter
+ * Return: length of string
  *
- *   * Return: length of string
- *
- *    * @s: pointer to array of characters
- *
- *     */
+ * @s: pointer to array of characters
+ */
 
 int _strlen(char *s)
 {
