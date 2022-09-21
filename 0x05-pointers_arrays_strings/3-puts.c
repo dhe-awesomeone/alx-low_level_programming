@@ -1,9 +1,8 @@
-#include "main.h"
 #include <stdio.h>
+#include "main.h"
 /**
- * _puts - function to print out a string using pointers
- *
- * Return: always 0
+ * _puts - print string
+ * @str: string
  */
 void _puts(char *str)
 {
@@ -14,5 +13,5 @@ void _puts(char *str)
 		_putchar(*(str + a));
 		a++;
 	}
-	return (0);
+	_putchar('\n');
 }
