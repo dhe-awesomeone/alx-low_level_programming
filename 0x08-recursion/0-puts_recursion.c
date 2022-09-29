@@ -14,5 +14,4 @@ void main()
 {
 	_puts_recursion(a);
 	_putchar('\n');
-	return;
 }
