@@ -14,7 +14,7 @@ void _puts_recursion(char *s)
 		_putchar('\n');
 	}
 }
-void main(char c)
+void main(char *c)
 {
 	_putchar(c);
 	_puts_recursion(c);
