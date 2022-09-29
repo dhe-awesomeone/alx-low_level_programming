@@ -1,6 +1,9 @@
 #include "main.h"
 #include <stdio.h>
-
+/**
+ * _print_rev_recursion - function name
+ * @s: variable
+ */
 
 void _print_rev_recursion(char *s)
 {
