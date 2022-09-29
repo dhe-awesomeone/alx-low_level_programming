@@ -1,7 +1,8 @@
 #include "main.h"
 /**
  * _puts_recursion - function to print string with recursion
- */
+ * @s: variable
+*/
 void _puts_recursion(char *s)
 {
 	if (*s != '\0')
