@@ -2,7 +2,7 @@
 /**
  * factorial - function to print factorial of a given number
  * @n: variable used
- * Return: -1 errror 1 (if n==0) and the factorial value if all conditions are true
+ * Return: -1 errror 1 (if n==0) & the factorial if all conditions are true
  */
 int factorial(int n)
 {
