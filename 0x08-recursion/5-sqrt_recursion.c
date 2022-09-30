@@ -9,7 +9,7 @@ int _get_sqrt(int n, int r)
 {
 	if ((r * r) == n)
 		return (r);
-	if (r == n/2)
+	if (r == n / 2)
 		return (-1);
 	else 
 		return (_get_sqrt(n, r + 1));
@@ -26,7 +26,7 @@ int _sqrt_recursion(int n)
 	int r = 0;
 
 	if (n < 1)
-		return(-1);
+		return (-1);
 	if (n == 1)
 		return (1);
 	else
