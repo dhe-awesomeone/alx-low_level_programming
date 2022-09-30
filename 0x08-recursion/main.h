@@ -8,4 +8,5 @@ int _strlen_recursion(char *s);
 int is_prime_number(int n);
 int _sqrt_recursion(int n);
 int _get_sqrt(int n, int r);
+int is_prime_number(int n);
 #endif
