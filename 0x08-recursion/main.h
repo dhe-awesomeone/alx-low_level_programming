@@ -6,4 +6,6 @@ void _putchar(char c);
 void _print_rev_recursion(char *s);
 int _strlen_recursion(char *s);
 int is_prime_number(int n);
-#endif
+int _sqrt_recursion(int n);
+int _get_sqrt(int r);
+endif
