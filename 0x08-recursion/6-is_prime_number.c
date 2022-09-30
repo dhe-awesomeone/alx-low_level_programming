@@ -2,9 +2,10 @@
 /**
  * is_prime_number - function
  * @n: variale
+ * @p: variable
  * Return: (1) 
  */
-int is_prime_number(int n)
+int is_prime_number(int n, int p)
 {
 	int p;
 	
