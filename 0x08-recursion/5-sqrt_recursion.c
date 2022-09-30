@@ -5,9 +5,8 @@
  * @n: variable
  * Return: r
  */
-int _get_sqrt(int r)
+int _get_sqrt(int n, int r)
 {
-	int n;
 	if ((r * r) == n)
 		return (r);
 	if (r == n/2)
