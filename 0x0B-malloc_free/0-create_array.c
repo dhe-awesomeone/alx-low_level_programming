@@ -4,7 +4,7 @@
  * *create_array - function to create an array of char
  * and initialize it with a specific char
  * @c: char to initialize the variable c
- * @size: array size to create 
+ * @size: array size to create
  *
  * Return: Null or 0
  */
@@ -28,6 +28,6 @@ char *create_array(unsigned int size, char c)
 	}
 	*(p + i) = '\0';
 
-	return p;
+	return (p);
 }
 
